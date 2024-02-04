@@ -19,6 +19,24 @@ If you have any job or freelance opportunities for me, kindly send me an <a href
 Feel free to take a look at my __WakaTime__ overview. This gives a good understanding of the __languages__ used.
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 September 2023 - To: 03 February 2024
+
+Total Time: 353 hrs 3 mins
+
+Python            271 hrs 35 mins >>>>>>>>>>>>>>>>>>>------   76.93 %
+Go                33 hrs 43 mins  >>-----------------------   09.55 %
+JSON              13 hrs 25 mins  >------------------------   03.80 %
+CSV               8 hrs 39 mins   >------------------------   02.45 %
+HTML              8 hrs 31 mins   >------------------------   02.41 %
+Vue.js            6 hrs 29 mins   -------------------------   01.84 %
+JavaScript        3 hrs 6 mins    -------------------------   00.88 %
+Docker            2 hrs 37 mins   -------------------------   00.74 %
+YAML              1 hr 27 mins    -------------------------   00.41 %
+Text              45 mins         -------------------------   00.21 %
+```
+
 <!--END_SECTION:waka-->
 
 <picture>
