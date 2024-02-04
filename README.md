@@ -9,13 +9,6 @@
 本人同样是一名学习者，一直在不断的学习当中，如果有好的学习点子和新的技术可以一起来交流学习。
 
 
-## 其他代码仓库
-
-|仓库|地址|
-|----|----|
-|Gitee|https://gitee.com/xiuyusheng|
-|1024Code|https://1024code.com/~PAIDAXING|
-
 ## 我的技术栈
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,vue,css,sass,docker,sqlite,go,mysql,py,django,express,nginx,nodejs,redis,markdown,github,git,linux)](https://skillicons.dev)
@@ -34,5 +27,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiuyusheng/xiuyusheng/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xiuyusheng/xiuyusheng/output/github-snake.svg">
 </picture>
+
+## 其他代码仓库
+
+|仓库|地址|
+|----|----|
+|Gitee|https://gitee.com/xiuyusheng|
+|1024Code|https://1024code.com/~PAIDAXING|
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
