@@ -4,7 +4,7 @@
 
 ## A little more about me...  
 
-My name is Edward. I'm a web and app developer who loves building ideas and projects. I place a deep interest and actively contribute to the open source ecosystem. Recently, I've picked up a passion for producing technical articles and creating content that are truly beneficial to other developers. 
+I am a backend developer. I place a deep interest and actively contribute to the open source ecosystem. Recently, I've picked up a passion for producing technical articles and creating content that are truly beneficial to other developers. 
 
 I'm highly sociable, so feel free to DM or ask me any question anywhere I exist on the internet. Just don't say "Hi", alone. :)
 
