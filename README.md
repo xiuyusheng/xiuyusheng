@@ -12,7 +12,7 @@ I'm highly sociable, so feel free to DM or ask me any question anywhere I exist 
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,vue,css,sass,docker,sqlite,go,mysql,py,django,express,nginx,nodejs,redis,markdown,github,git,linux)](https://skillicons.dev)
 
-If you have any job or freelance opportunities for me, kindly send me an <a href="mailto:edward.xyz@qq.com">email</a>.
+If you have any job or freelance opportunities for me, kindly send me an <a href="mailto:3044639452@qq.com">email</a>.
 
 ## My Coding Summary: 
 
