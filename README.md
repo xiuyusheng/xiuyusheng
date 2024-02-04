@@ -14,7 +14,7 @@
 |仓库|地址|
 |----|----|
 |Gitee|https://gitee.com/xiuyusheng|
-|1024Code|<a href="[https://gitee.com/xiuyusheng](https://1024code.com/~PAIDAXING)"></a>|
+|1024Code|https://1024code.com/~PAIDAXING|
 
 ## 我的技术栈
 
