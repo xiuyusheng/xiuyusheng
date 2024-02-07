@@ -54,6 +54,6 @@ Text              45 mins         -------------------------   00.21 %
 |1024Code|https://1024code.com/~PAIDAXING|
 
 ## 我的csdn
-<img src="http://8.134.139.37:3000/api/csdn?id=weixin_63304209&theme=dark&lang=zh-CN"/>
+<canvas src="http://8.134.139.37:3000/api/csdn?id=weixin_63304209&theme=dark&lang=zh-CN"/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
