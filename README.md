@@ -55,6 +55,6 @@ Text              45 mins         -------------------------   00.21 %
 
 ## 我的csdn
 <a href="https://blog.csdn.net/weixin_63304209?spm=1000.2115.3001.5343"><img src="http://8.134.139.37:3000/api/csdn?id=weixin_63304209&theme=dark&lang=zh-CN"/></a>
-<a href="https://leetcode.cn/u/bei-bo-liang-yi/"><img src="http://8.134.139.37:3000/api/leetcode/?username=bei-bo-liang-yi&cn=true"/></a>
+<a href="https://leetcode.cn/u/bei-bo-liang-yi/"><img src="http://8.134.139.37:3000/api/leetcode/?username=bei-bo-liang-yi&cn=true&theme=dark&lang=zh-CN"/></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
