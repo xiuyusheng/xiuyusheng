@@ -50,7 +50,7 @@ Text              45 mins         -------------------------   00.21 %
 
 |仓库|地址|
 |----|----|
-|Gitee|https://stats.justsong.cn/api/website/?url=https://gitee.com/xiuyusheng&style=flat&logo=gitee|
+|Gitee|<img src="https://stats.justsong.cn/api/website/?url=https://gitee.com/xiuyusheng&style=flat&logo=gitee"/>|
 |1024Code|https://1024code.com/~PAIDAXING|
 
 ## 其他
