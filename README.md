@@ -50,10 +50,11 @@ Text              45 mins         -------------------------   00.21 %
 
 |仓库|地址|
 |----|----|
-|Gitee|<a href="https://gitee.com/xiuyusheng"><img src="http://8.134.139.37:3000/api/website/?url=https://gitee.com/xiuyusheng&style=flat&logo=github"/></a>|
-|1024Code|<a href="https://1024code.com/~PAIDAXING"><img src="http://8.134.139.37:3000/api/website/?url=https://1024code.com/~PAIDAXING&style=flat&logo=github"/></a>|
+|Gitee|https://gitee.com/xiuyusheng|
+|1024Code|https://1024code.com/~PAIDAXING|
 
 ## 其他
+<a href="https://github.com/xiuyusheng"><img src="http://8.134.139.37:3000/api/github?username=xiuyusheng&theme=dark&lang=zh-CN"/></a>
 <a href="https://blog.csdn.net/weixin_63304209?spm=1000.2115.3001.5343"><img src="http://8.134.139.37:3000/api/csdn?id=weixin_63304209&theme=dark&lang=zh-CN"/></a>
 <a href="https://leetcode.cn/u/bei-bo-liang-yi/"><img src="http://8.134.139.37:3000/api/leetcode/?username=bei-bo-liang-yi&cn=true&theme=dark&lang=zh-CN"/></a>
 
