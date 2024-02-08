@@ -54,7 +54,7 @@ Text              45 mins         -------------------------   00.21 %
 |1024Code|https://1024code.com/~PAIDAXING|
 
 ## 其他
-<a href="https://github.com/xiuyusheng"><img src="http://8.134.139.37:3000/api/github?username=xiuyusheng&theme=highcontrast&lang=zh-CN"/></a>
+<a href="https://github.com/xiuyusheng"><img src="http://8.134.139.37:3000/api/github?username=xiuyusheng&theme=dark&lang=zh-CN"/></a>
 <a href="https://blog.csdn.net/weixin_63304209?spm=1000.2115.3001.5343"><img src="http://8.134.139.37:3000/api/csdn?id=weixin_63304209&theme=dark&lang=zh-CN"/></a>
 <a href="https://leetcode.cn/u/bei-bo-liang-yi/"><img src="http://8.134.139.37:3000/api/leetcode/?username=bei-bo-liang-yi&cn=true&theme=dark&lang=zh-CN"/></a>
 
