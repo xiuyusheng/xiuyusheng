@@ -51,7 +51,7 @@ Text              45 mins         -------------------------   00.21 %
 |仓库|地址|
 |----|----|
 |Gitee|<a href="https://gitee.com/xiuyusheng"><img src="https://stats.justsong.cn/api/website/?url=https://gitee.com&style=flat&logo=gitee"/></a>|
-|1024Code|<a href="https://1024code.com/~PAIDAXING"><img src="https://stats.justsong.cn/api/website/?url=https://1024code.com/~PAIDAXING&style=flat&logo=1024Code"/></a>|
+|1024Code|<a href="https://1024code.com/~PAIDAXING"><img src="https://stats.justsong.cn/api/website/?url=https://1024code.com/~PAIDAXING&style=flat&logo=data:image/png;base64,UklGRlwBAABXRUJQVlA4WAoAAAAYAAAADwAADwAAQUxQSI8AAAABcFNt27LcfwG8Ajk4/4aPLi10cndnpwYBPAOsOrL9jkeICAJJG88LLAZ/zL2smgGC45wdEBVNW4EwUNbXow1GmqZpJmEohXHc07B4sWelEHDof3K5gZTq/gSQlBt8enuTL17viF+F5aZTbn1zXkBc9X4SHjlgO/rsQEGKYr/mvnSiq26uJ/vXjoFx3sHvAQBWUDggVAAAALABAJ0BKhAAEAACADQlsAJ0MEZCJgAA/uwdf/qgRlc8nHokqcazZc9bL0Q8g7mSXvVPB/arT7fj+NnAf/BV9ODcKv6bmdeH0xL6GL/fc/x+MpYAAEVYSUZKAAAARXhpZgAATU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAC0KADAAQAAAABAAAC0AAAAAA="/></a>|
 
 ## 其他
 <a href="https://github.com/xiuyusheng"><img src="https://stats.justsong.cn/api/github?username=xiuyusheng&theme=dark&lang=zh-CN"/></a>
