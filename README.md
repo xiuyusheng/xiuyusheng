@@ -57,6 +57,6 @@ Text              45 mins         -------------------------   00.21 %
 <a href="https://github.com/xiuyusheng"><img src="http://8.134.139.37:3000/api/github?username=xiuyusheng&theme=dark&lang=zh-CN"/></a>
 <a href="https://blog.csdn.net/weixin_63304209?spm=1000.2115.3001.5343"><img src="http://8.134.139.37:3000/api/csdn?id=weixin_63304209&theme=dark&lang=zh-CN"/></a>
 <a href="https://leetcode.cn/u/bei-bo-liang-yi/"><img src="http://8.134.139.37:3000/api/leetcode/?username=bei-bo-liang-yi&cn=true&theme=dark&lang=zh-CN"/></a>
-<a href="https://juejin.cn/user/4435878899888782/"><img src="http://8.134.139.37:3000/api/juejin?id=1556564194374926"/></a>
+<a href="https://juejin.cn/user/4435878899888782/"><img src="https://stats.justsong.cn/api/juejin?id=1556564194374926"/></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
