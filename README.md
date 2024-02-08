@@ -50,7 +50,7 @@ Text              45 mins         -------------------------   00.21 %
 
 |仓库|地址|
 |----|----|
-|Gitee|https://gitee.com/xiuyusheng|
+|Gitee|http://8.134.139.37:3000/api/website/?url=https://github.com/&style=flat&logo=github|
 |1024Code|https://1024code.com/~PAIDAXING|
 
 ## 其他
