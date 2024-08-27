@@ -11,7 +11,7 @@
 
 ## 我的技术栈
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,vue,css,sass,docker,sqlite,go,mysql,py,django,express,nginx,nodejs,redis,markdown,github,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,vue,css,sass,docker,sqlite,go,mysql,py,django,express,nginx,nodejs,redis,markdown,github,git,linux,rabbitmq)](https://skillicons.dev)
 
 如果你有任何工作或自由职业的机会能够给我，请发送到我的 <a href="mailto:3044639452@qq.com">邮箱</a>.
 
@@ -39,6 +39,8 @@ Vue.js                     6 hrs 29 mins   -------------------------   00.59 %
 ```
 
 <!--END_SECTION:waka-->
+
+## github活跃面板
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiuyusheng/xiuyusheng/output/github-snake-dark.svg">
