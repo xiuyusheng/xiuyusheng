@@ -58,7 +58,5 @@ CSV                        8 hrs 58 mins   -------------------------   00.71 %
 ## 其他
 <a href="https://github.com/xiuyusheng"><img src="https://stats.justsong.cn/api/github?username=xiuyusheng&theme=dark&lang=zh-CN"/></a>
 <a href="https://blog.csdn.net/weixin_63304209?spm=1000.2115.3001.5343"><img src="https://stats.justsong.cn/api/csdn?id=weixin_63304209&theme=dark&lang=zh-CN"/></a>
-<a href="https://leetcode.cn/u/bei-bo-liang-yi/"><img src="https://stats.justsong.cn/api/leetcode/?username=bei-bo-liang-yi&cn=true&theme=dark&lang=zh-CN"/></a>
-<a href="https://juejin.cn/user/4435878899888782/"><img src="https://stats.justsong.cn/api/juejin?id=4435878899888782&cn=true&theme=dark&lang=zh-CN"/></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
